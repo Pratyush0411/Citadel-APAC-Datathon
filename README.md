@@ -18,7 +18,7 @@ reknowned team.
 * Then we performed exploratory data analytics and tried gaining insights and testing several hypothesis on the way
 * We used neural networks, anomaly detection and regression modelling concepts to test out the hypotheses.
 
-#### Hypothesis
+#### Hypotheses
 1. The winning teams in upsets or underdogs usually have very defensive strategy and tend to park the bus. This means most
 of the possession lies with the stronger teams and the weaker teams believe in counter attacking strategy. Hence, our next 
 task was to explore any similarities in strategies/attributes amongst the winning teams in upset matches.
